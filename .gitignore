@@ -1,7 +1,13 @@
 # PyInstaller
 build/
 *.spec
+dist/
 
 # Virtual environment
 venv/
-dist/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
