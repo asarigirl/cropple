@@ -1,0 +1,7 @@
+feat: Prepare for PyPI distribution and update README
+
+- Restructure project for PyPI compatibility:
+  - Moved `cropple.py` to `src/cropple/main.py`.
+  - Created `src/cropple/__init__.py`.
+  - Added `pyproject.toml` for package metadata and build configuration.
+- Updated `README.md` with MIT License information.
